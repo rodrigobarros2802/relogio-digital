@@ -18,9 +18,8 @@ pois levei alguns dias criando esse projeto, pesquisando e buscando a melhor for
 ![Print do Projeto](img/print1.png)
 
 # Link para visualizar projeto
+https://rodrigobarros2802.github.io/relogio-digital/
 
 # Autor
-
-Rodrigo Barros 
 
 LinkedIn: https://www.linkedin.com/in/rodrigobarros2802/
