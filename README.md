@@ -1,4 +1,4 @@
-# Criação de Relógio Digital
+# Relógio Digital
 
 Hoje decidir criar um Relógio Digital onde ele fica de acordo com a hora local do sistema operacional.
 
