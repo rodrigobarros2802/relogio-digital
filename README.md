@@ -17,8 +17,8 @@ pois levei alguns dias criando esse projeto, pesquisando e buscando a melhor for
 
 ![Print do Projeto](img/print1.png)
 
-# Link para visualizar projeto
-https://rodrigobarros2802.github.io/relogio-digital/
+# Link Deploy
+Deploy - https://profound-ganache-db4233.netlify.app/
 
 # Autor
 
