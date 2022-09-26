@@ -18,8 +18,10 @@ pois levei alguns dias criando esse projeto, pesquisando e buscando a melhor for
 ![Print do Projeto](img/print1.png)
 
 # Link Deploy
-Deploy - https://profound-ganache-db4233.netlify.app/
+* Deploy - https://profound-ganache-db4233.netlify.app/
 
 # Autor
 
-LinkedIn: https://www.linkedin.com/in/rodrigobarros2802/
+* LinkedIn: https://www.linkedin.com/in/rodrigobarros2802/
+
+* GitHub - https://github.com/rodrigobarros2802
